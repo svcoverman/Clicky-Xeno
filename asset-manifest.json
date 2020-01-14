@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Clicky-Xeno/static/css/main.369f3c07.chunk.css",
+    "main.js": "/Clicky-Xeno/static/js/main.962e61a9.chunk.js",
+    "main.js.map": "/Clicky-Xeno/static/js/main.962e61a9.chunk.js.map",
+    "runtime-main.js": "/Clicky-Xeno/static/js/runtime-main.3c5a48a7.js",
+    "runtime-main.js.map": "/Clicky-Xeno/static/js/runtime-main.3c5a48a7.js.map",
+    "static/js/2.5f57dac6.chunk.js": "/Clicky-Xeno/static/js/2.5f57dac6.chunk.js",
+    "static/js/2.5f57dac6.chunk.js.map": "/Clicky-Xeno/static/js/2.5f57dac6.chunk.js.map",
+    "index.html": "/Clicky-Xeno/index.html",
+    "precache-manifest.d366a7d460739a203333e0792299e2b5.js": "/Clicky-Xeno/precache-manifest.d366a7d460739a203333e0792299e2b5.js",
+    "service-worker.js": "/Clicky-Xeno/service-worker.js",
+    "static/css/main.369f3c07.chunk.css.map": "/Clicky-Xeno/static/css/main.369f3c07.chunk.css.map",
+    "static/js/2.5f57dac6.chunk.js.LICENSE": "/Clicky-Xeno/static/js/2.5f57dac6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c5a48a7.js",
+    "static/js/2.5f57dac6.chunk.js",
+    "static/css/main.369f3c07.chunk.css",
+    "static/js/main.962e61a9.chunk.js"
+  ]
+}
